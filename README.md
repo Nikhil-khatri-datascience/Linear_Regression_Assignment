@@ -1,2 +1,0 @@
-# Linear_Regression_Assignment
-Bike_Sharing_System
